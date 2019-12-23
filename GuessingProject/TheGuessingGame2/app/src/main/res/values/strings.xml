@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TheGuessingGame2</string>
+    <string name="start_msg">Guess the number!</string>
+    <string name="level1">LEVEL 1 - \n\nYou have 5 chances to guess a number between 1 - 10 and type: \n"</string>
+    <string name="level2">LEVEL 2 - \n\nYou have 3 chances to guess a number between 1 - 10 and type: \n"</string>
+    <string name="level3">LEVEL 3 - \n\nYou have 3 chances to guess a number between 1 - 20 and type: \n"</string>
+    <string name="correct">Correct!Go to next level</string>
+    <string name="wrong">Ohhh wrong! Try again</string>
+    <string name="youLost">You lost start again!</string>
+    <string name="numOfTries1">5</string>
+    <string name="numOfTries2">3</string>
+    <string name="numOfTries3">3</string>
+
+
+</resources>
