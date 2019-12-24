@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GuessingGameV4</string>
+    <string name="welcome">WELCOME TO THE GAME</string>
+    <string name="level1">Level 1 - Guess a number between 1-10</string>
+    <string name="level2">Level 2 - Guess a number between 1-10</string>
+    <string name="level3">Level 3 - Guess a number between 1-20</string>
+    <string name="start">START</string>
+    <string name="counter">counter</string>
+    <string name="number">Enter your number</string>
+    <string name="button">Guess</string>
+    <string name="startMsg">Guess a number</string>
+    <string name="tryAgain">oh wrong! Try again</string>
+    <string name="correct">Correct! Next level</string>
+
+</resources>
